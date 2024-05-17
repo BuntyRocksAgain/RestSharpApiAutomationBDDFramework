@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Soumya\\Desktop\\RestSharpApiAutomationBDDFramework\\APIAutomationBDD.csproj": {}
+    "C:\\Users\\Soumya\\Desktop\\Automation Frameworks\\RestSharpAPIAutomationBDDFrameworkNew\\RestSharpApiAutomationBDDFramework\\APIAutomationBDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Soumya\\Desktop\\RestSharpApiAutomationBDDFramework\\APIAutomationBDD.csproj": {
+    "C:\\Users\\Soumya\\Desktop\\Automation Frameworks\\RestSharpAPIAutomationBDDFrameworkNew\\RestSharpApiAutomationBDDFramework\\APIAutomationBDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Soumya\\Desktop\\RestSharpApiAutomationBDDFramework\\APIAutomationBDD.csproj",
+        "projectUniqueName": "C:\\Users\\Soumya\\Desktop\\Automation Frameworks\\RestSharpAPIAutomationBDDFrameworkNew\\RestSharpApiAutomationBDDFramework\\APIAutomationBDD.csproj",
         "projectName": "APIAutomationBDD",
-        "projectPath": "C:\\Users\\Soumya\\Desktop\\RestSharpApiAutomationBDDFramework\\APIAutomationBDD.csproj",
+        "projectPath": "C:\\Users\\Soumya\\Desktop\\Automation Frameworks\\RestSharpAPIAutomationBDDFrameworkNew\\RestSharpApiAutomationBDDFramework\\APIAutomationBDD.csproj",
         "packagesPath": "C:\\Users\\Soumya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Soumya\\Desktop\\RestSharpApiAutomationBDDFramework\\obj\\",
+        "outputPath": "C:\\Users\\Soumya\\Desktop\\Automation Frameworks\\RestSharpAPIAutomationBDDFrameworkNew\\RestSharpApiAutomationBDDFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Soumya\\AppData\\Roaming\\NuGet\\NuGet.Config",

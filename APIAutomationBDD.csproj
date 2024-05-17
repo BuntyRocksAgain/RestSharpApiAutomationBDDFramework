@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Output\ExtentReports\" />
     <Folder Include="Support\" />
+    <Folder Include="Output\ExtentReports\" />
   </ItemGroup>
 
 </Project>
